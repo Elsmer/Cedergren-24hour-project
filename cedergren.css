@@ -74,10 +74,7 @@ font-size: 30px;
 
 }
 
-.headersection {
-  /* display: inline-block; */
-  
-}
+
 
 .block1 {
 position: absolute;
@@ -130,10 +127,7 @@ color:  white;
   font-size: 23px;
 }
 
-.portfoliosection {
-    /* display: inline-block; */
-    /* flex-direction: column; */
-}
+
 
 .subheading {
 font-family: 'Anton', sans-serif;
@@ -220,9 +214,7 @@ margin-left: 50px;
 }
 
 
-.aboutsection {
 
-}
 
 .block9 {
         position: absolute;
